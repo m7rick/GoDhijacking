@@ -1,6 +1,7 @@
 # GoDHijack 
 > Red team tool designed for quickly identifying hijackable programs, evading antivirus software, and EDR (Endpoint Detection and Response) systems.
 
+[中文说明](https://mp.weixin.qq.com/s/UA7hx78vRZrK2ZM6cO2j9w)
 > Current version  v1.0
 - Supports searching for x86 / x64 programs.
 - May circumvent DLLMain deadlock (as it can directly use exported functions).
